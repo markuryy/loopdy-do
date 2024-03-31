@@ -2,6 +2,8 @@
 
 Loopdy-do is an advanced tool for creating perfectly looping videos and GIFs from regular video files. It utilizes computer vision techniques and deep learning models to automatically detect and extract the best loop segments within a video, allowing users to preview and save them as seamless loops. This project was developed by markuryy as a utility for creating diffusion animations and was created with the assistance of Claude, an AI assistant.
 
+![A screenshot of the Loopdy-do application GUI](/images/preview.png)
+
 ## Features
 
 - Automatically detects and suggests the best loop segments in a video using a pre-trained ResNet-50 model for feature extraction and cosine similarity for comparing frame similarities.
